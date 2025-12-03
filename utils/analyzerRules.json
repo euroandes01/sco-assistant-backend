@@ -1,0 +1,18 @@
+{
+"weights": {
+"country_trust": 20,
+"payment_terms": 20,
+"seller_history": 20,
+"price_deviation": 20,
+"document_quality": 20
+},
+"keywords": {
+"urgent": -5,
+"immediately": -5,
+"deposit": -10,
+"without_assay": -15,
+"FOB": 5,
+"CIF": 0,
+"spot": 5
+}
+}

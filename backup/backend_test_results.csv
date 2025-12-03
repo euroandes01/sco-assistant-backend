@@ -1,0 +1,4 @@
+"Endpoint","Status","RiskScore","Details"
+"/api/sco/analyze","Success","5","Placeholder automated scoring. Replace with real scoringService."
+"/api/user/login","Success","","login stub (replace with real auth)"
+"/api/premium/verify","Success","",""
